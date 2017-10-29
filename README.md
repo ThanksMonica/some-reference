@@ -27,5 +27,7 @@
 
 ## `bootstrap`
 - [ ] [bootstrap](http://getbootstrap.com/docs/4.0/layout/overview/)
-- [ ] [字体选择](http://www.googlefonts.cn/)
-- [ ] [icon选择](http://www.iconfont.cn/)
+- [ ] [字体选择](http://www.googlefonts.cn/)<br>
+      选择字体-复制生成代码-粘贴
+- [ ] [icon选择](http://www.iconfont.cn/)<br>
+      选择icon-下载-导入css文件-粘贴链接
