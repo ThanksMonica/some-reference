@@ -27,3 +27,5 @@
 
 ## `bootstrap`
 - [ ] [bootstrap](http://getbootstrap.com/docs/4.0/layout/overview/)
+- [ ] [字体选择](http://www.googlefonts.cn/)
+- [ ] [icon选择](http://www.iconfont.cn/)
