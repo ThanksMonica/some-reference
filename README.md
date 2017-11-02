@@ -31,3 +31,16 @@
       选择字体-复制生成代码-粘贴
 - [ ] [icon选择](http://www.iconfont.cn/)<br>
       选择icon-下载-导入css文件-粘贴链接
+- [ ] [bootstrap源代码] (https://github.com/twbs/bootstrap)
+
+
+
+## `几个需要注意的background属性`
+background-color 
+background-position 
+background-size 
+background-repeat 
+background-origin 
+background-clip 
+background-attachment 
+background-image
